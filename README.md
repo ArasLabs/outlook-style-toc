@@ -32,12 +32,14 @@ Release notes/descriptions for the original project posted on the previous Aras 
 
 Release | Notes
 --------|--------
+[v2.0](https://github.com/ArasLabs/outlook-style-toc/releases/tag/v2.0) | 2nd release (Apr 2011).
 [v1.0](https://github.com/ArasLabs/outlook-style-toc/releases/tag/v1.0) | First release as a Community project. INSTALL Instructions - there is no package or any itemtype changes required. This is a replacement of one file in the client code tree, and then some additional icons and style sheets. Before installing, be sure to backup ../client/scripts/mainTree.htm then just unzip the attached file. You might need to stop / start IIS or flush the browser cache before you see the change.
 
 #### Supported Aras Versions
 
 Project | Aras
 --------|------
+[v2.0](https://github.com/ArasLabs/outlook-style-toc/releases/tag/v2.0) | Aras 9.1
 [v1.0](https://github.com/ArasLabs/outlook-style-toc/releases/tag/v1.0) | Aras 9.1
 
 > ###### *Please note: Aras Community Projects are provided on an "as-is" basis.*
