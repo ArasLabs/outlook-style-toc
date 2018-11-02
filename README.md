@@ -20,7 +20,7 @@ I had much of the code built for a previous project that I was working on, and a
 
 I used Nash and caught the XML code and created a stylesheet that would output the menu as you see today. I then altered the mainTree.html to allow for the functionality needed. The whole process was not has hard has it would seem because I created the menu to use the functions already in place.
 
-#### Any other snipits you think would be valuable to share?
+#### Any other snippets you think would be valuable to share?
 I am sending an updated version of the menu system – now keeps the highlighted menus after you click off the menu.
 I am also working on the inBasket to allow certain administrative persons to look at other inBaskets to help with problems. Again, much of the code is ready from Aras, it is just a matter of implementing the change.
 
